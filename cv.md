@@ -27,26 +27,26 @@ Resourcefulness. In my life, I follow the principle: "Better to ask and be a foo
 Skills
 ===
 
-Studying Java-Script;
-Linux - Ubuntu, Archlinux (the main OS I work and use daily);
-Python - Numpy, Pandas, Matplotlib, Scipy;
-HTML/CSS;
-Mysql;
-AWS Amazon Web Services (hosting EC2);
-Git;
+* Studying Java-Script;
+* Linux - Ubuntu, Archlinux (the main OS I work and use daily);
+* Python - Numpy, Pandas, Matplotlib, Scipy;
+* HTML/CSS;
+* Mysql;
+* AWS Amazon Web Services (hosting EC2);
+* Git;
 
 Link to my training and stand-alone projects in the Github repository: https:/git//hub.com/Vsevolod-IT
 
 ---
 
 References to certificates:
-«Git» (https:////geekbrains.ru/certificates/746838)
-«HTML/CSS» (https://geekbrains.ru certificates/743515)
-«Databases» (https:////geekbrains.ru/certificates/892547)
-«Database bases» (https:////geekbrains.ru/certificates/764640)
-«Introduction to Linux and cloud computing» (https:///geekbrains.ru/certificates/796273)
-«Python basics» (https://geekbrains.ru certificates/727052)
-«Python Programming Framework» (https:///letpy.com certificate/91a8afa4-8d2b-48ae-8061-fab201135e3e/ru/)
+* «Git» (https:////geekbrains.ru/certificates/746838)
+* «HTML/CSS» (https://geekbrains.ru certificates/743515)
+* «Databases» (https:////geekbrains.ru/certificates/892547)
+* «Database bases» (https:////geekbrains.ru/certificates/764640)
+* «Introduction to Linux and cloud computing» (https:///geekbrains.ru/certificates/796273)
+* «Python basics» (https://geekbrains.ru certificates/727052)
+* «Python Programming Framework» (https:///letpy.com certificate/91a8afa4-8d2b-48ae-8061-fab201135e3e/ru/)
 
 Study
 ===
