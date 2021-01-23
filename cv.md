@@ -69,12 +69,12 @@ English language development courses
 
 *References to certificates:*
 * [Git](https:////geekbrains.ru/certificates/746838)
-* [HTML/CSS](https://geekbrains.ru certificates/743515)
+* [HTML_CSS](https:////geekbrains.ru certificates/743515)
 * [Databases](https:////geekbrains.ru/certificates/892547)
 * [Database bases](https:////geekbrains.ru/certificates/764640)
 * [Introduction to Linux and cloud computing](https:///geekbrains.ru/certificates/796273)
-* [Python basics](https://geekbrains.ru certificates/727052)
-* [Python Programming Framework](https:///letpy.com certificate/91a8afa4-8d2b-48ae-8061-fab201135e3e/ru/)
+* [Python_basics](https:////geekbrains.ru certificates/727052)
+* [Python Programming Framework](https:////letpy.com certificate/91a8afa4-8d2b-48ae-8061-fab201135e3e/ru/)
 
 ---
 
