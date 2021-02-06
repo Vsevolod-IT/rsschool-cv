@@ -31,3 +31,30 @@ figure {
 figcaption {
   margin-left: 30%;
 }
+
+/* main block */
+.main_block {
+  margin: auto;
+  width: 80%;
+  background-image: linear-gradient(
+    to right,
+    rgb(41, 44, 46),
+    rgb(84, 88, 88),
+    rgba(41, 44, 46)
+  );
+}
+
+.section_information {
+  margin: auto;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  color: aliceblue;
+  border-bottom: 0.2rem solid rgb(0, 0, 0);
+  background-image: linear-gradient(
+    to right,
+    rgb(149, 153, 156),
+    rgba(42, 44, 46, 0.822),
+    rgb(167, 171, 175)
+  );
+}
