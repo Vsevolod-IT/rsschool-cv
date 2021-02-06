@@ -1,0 +1,33 @@
+/*personal-information <header> */
+.contact_block {
+  margin: auto;
+  width: 80%;
+  display: flex;
+  color: rgb(228, 237, 245);
+  background-image: linear-gradient(
+    to right,
+    rgb(209, 209, 209),
+    rgba(42, 44, 46, 0.822),
+    rgba(0, 0, 0, 0.932)
+  );
+}
+.contact_block ul {
+  list-style-type: none;
+}
+.contact_block a {
+  color: aliceblue;
+}
+.vsevolod_img {
+  padding: 1%;
+  width: 25%;
+  float: left;
+  border-radius: 10%;
+}
+
+figure {
+  margin: auto;
+}
+
+figcaption {
+  margin-left: 30%;
+}
