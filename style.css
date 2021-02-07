@@ -58,6 +58,9 @@ figcaption {
     rgb(167, 171, 175)
   );
 }
+.section_information img {
+  width: 15%;
+}
 
 aside {
   margin-left: 50%;
@@ -69,4 +72,22 @@ aside {
     rgb(234, 245, 245),
     rgb(128, 128, 128)
   );
+}
+
+/* list of certificates */
+.certificates {
+  padding: 0%;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(5rem, 1fr));
+  grid-gap: 2rem;
+  background-image: linear-gradient(
+    to right,
+    rgba(227, 228, 230, 0.822),
+    rgb(167, 171, 175)
+  );
+}
+
+.certificates img {
+  width: 100%;
 }
