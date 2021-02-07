@@ -58,3 +58,15 @@ figcaption {
     rgb(167, 171, 175)
   );
 }
+
+aside {
+  margin-left: 50%;
+  margin-bottom: 5%;
+  width: 50%;
+  color: black;
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(234, 245, 245),
+    rgb(128, 128, 128)
+  );
+}
