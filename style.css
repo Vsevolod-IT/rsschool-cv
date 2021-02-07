@@ -102,3 +102,30 @@ aside {
 .certificates img {
   width: 100%;
 }
+
+/* footer */
+footer {
+  margin: auto;
+  width: 80%;
+  height: 10rem;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(2rem, 1fr));
+  grid-gap: 1rem;
+  color: rgb(228, 237, 245);
+  background-image: linear-gradient(
+    to right,
+    rgb(209, 209, 209),
+    rgba(0, 0, 0, 0.932)
+  );
+}
+
+footer img {
+  margin: auto;
+  width: 100%;
+  height: 50%;
+  object-fit: contain;
+}
+
+footer p {
+  text-align: center;
+}
