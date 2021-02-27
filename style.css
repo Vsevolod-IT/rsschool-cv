@@ -1,0 +1,133 @@
+body {
+  font-size: calc((100vw - 480px) / (1280 - 480) * (24 - 16) + 16px);
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 1%;
+}
+
+/*personal-information <header> */
+.contact_block {
+  margin: auto;
+  width: 80%;
+  display: flex;
+  color: rgb(228, 237, 245);
+  background-image: linear-gradient(
+    to right,
+    rgb(209, 209, 209),
+    rgba(42, 44, 46, 0.822),
+    rgba(0, 0, 0, 0.932)
+  );
+}
+.contact_block ul {
+  list-style-type: none;
+}
+.contact_block a {
+  color: aliceblue;
+}
+.vsevolod_img {
+  padding: 1%;
+  width: 25%;
+  float: left;
+  border-radius: 10%;
+}
+
+figure {
+  margin: auto;
+}
+
+figcaption {
+  margin-left: 30%;
+}
+
+/* main block */
+.main_block {
+  margin: auto;
+  width: 80%;
+  background-image: linear-gradient(
+    to right,
+    rgb(41, 44, 46),
+    rgb(84, 88, 88),
+    rgba(41, 44, 46)
+  );
+}
+
+.section_information {
+  margin: auto;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  color: aliceblue;
+  border-bottom: 0.2rem solid rgb(0, 0, 0);
+  background-image: linear-gradient(
+    to right,
+    rgb(149, 153, 156),
+    rgba(42, 44, 46, 0.822),
+    rgb(167, 171, 175)
+  );
+}
+.section_information img {
+  width: 15%;
+}
+
+aside {
+  margin-left: 50%;
+  margin-bottom: 5%;
+  width: 50%;
+  color: black;
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(234, 245, 245),
+    rgb(128, 128, 128)
+  );
+}
+
+/* list of certificates */
+.certificates {
+  padding: 0%;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(5rem, 1fr));
+  grid-gap: 2rem;
+  background-image: linear-gradient(
+    to right,
+    rgba(227, 228, 230, 0.822),
+    rgb(167, 171, 175)
+  );
+}
+
+.certificates img {
+  width: 100%;
+}
+
+/* footer */
+footer {
+  margin: auto;
+  width: 80%;
+  height: 10vw;
+  display: flex;
+  /* grid-template-columns: repeat(3, minmax(10vw, 1fr)); */
+  /* grid-gap: 1rem; */
+  color: rgb(228, 237, 245);
+  background-image: linear-gradient(
+    to right,
+    rgb(209, 209, 209),
+    rgba(0, 0, 0, 0.932)
+  );
+}
+
+footer img {
+  margin: left;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+footer p {
+  margin-top: 0%;
+  padding: 1%;
+  text-align: center;
+}
